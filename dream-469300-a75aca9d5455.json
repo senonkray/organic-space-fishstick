@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dream-469300",
+  "private_key_id": "a75aca9d54556c8f43f9c744d3a7e1d3e866dd42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkBcXQ2VYutZo0\nOYeco3K89pDEZx40xJPsiPx/IQlIAMVlufXICGO14iMGlHdbaIDmnjSyq9z6zTuZ\nxio6FscWENAtml/j9uZpA+gcvTPO63B4ZiWcQyvOiPPgrhGucV62dgbudh1YBs2K\nEz8vt9ISw2xvT4Ov/V8Fbpm7f67kWmSBojN3+cmjENoUarBX3cWIP+Dvms2MbcU5\nzgZegsFCA43Pk+MN8qklZNw5fy5wD30hTQ8aowRQzJfsbirlcmJWVlJDGpbM8nDi\nCxIFst3ORrUo+u49pxzyOngzfSqpXfrCp9TWv483ZqnBxDsWSMmEvECJY4bsn2ti\nlqV+NkDrAgMBAAECgf9IuEZ70d/j1aAIh3kYeV7laGvGp/E8c+shc5p+wqbaxXy/\nHTNa/F04xonA4RIJ9Msxc/LpREk06MkD5FfUaUTbA5lInqjk6RI+fPzrwPa3RqsW\ntjL2lNFXQGDfvE0aiijzvGBWWQepf1qhXOcmwNjieMIal6ZK4IrAXcjK2FEx7CvT\ndWcoiSt/0G/8YqAgBiVntE4YFE9DFMmU/hEPeBDMvFNHoDreD8SwJrJbn45TPVb5\nqwEOIwn34T709/B/321XLc0ZZWru3D0M/1wM6WlFiIPiHoD2Jl3F07R2emj0MD86\nTOXlh4y05cNttKaSRDmNqpZmXsvteQVCgu8IGLUCgYEA1DHSbSpvD3K/3pC3tZQK\nNgoLlpBniwsKvT11lgq4/jjgwQZEpostgPbZTWbSJK+KDoOI99PEGoDIwwTQIU4T\n7WUUKa5FVgTTa/rly1DdB1o1IkvLEqE8EnIcgY+osAMSNBDo4m46gJZMpoRqcis7\nhHdSFkUnWsHOZo03QjoYNmUCgYEAxeIgdNdEEPJTYXaQ5VB1WGSacSuVl3HYNLpN\n9Ce5sGKtO0V48PdmHpi8T6X4yrbVIXHEIy29/wCxBcQsXj6zNC3rAHuTziLXlXS1\n1LH3wb1/cljv1Kmay4VR4/E7ZD9yy2Tzqupf9mn1/f5ELcqIp5K8LF9ldMybAOz7\ntX6xPQ8CgYEAoiXwRrtGYues9sZfm8Gki+bhNAzlErs9WZ69XAqVkq6kENxZWWrB\nOutm4l7P9nitZqnc4IRSNm5y+5OR9+FSGPZEkhU5pqHJbZosP1FrlVK5h5ujcnkD\nDpVkcxz0KowuPNsvGthgnCI+MIC/Vr7ynCcR8zKlABVZQ8RllZYPKoECgYEAgi3S\nwErlgmiIpfOEOveFWxND7vOHQ8wnOfjeU6LWq80evYFkoNGAotxD9fnwBBvndksL\nh0EOXvWrf2mg7pc8+TTEBttFTzTosm/HNxelMBVkBGuxyyuQpBce2l/WfIqpEFln\nW6c4XjkzFVbyr1UwNV144ZAYhJAd4KwGo02nd80CgYBD8d4DMKKSw0UvonY8J3Hy\nyUjoMtMrpSsf6p7s9pfFEVvYFxZexQBGm85yPs1Rz9kNHxvc9QhtB5AzvJN6q3zG\n/dbterzj4jLkveOaMF/bVU8+tc1DtnVcCE9m47svaGgqrvuCpAXyN9xfMFVOfxC+\nq4w3LahntN+amdG/13z4zw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "denyakray-gmail-com@dream-469300.iam.gserviceaccount.com",
+  "client_id": "107959856917921394794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/denyakray-gmail-com%40dream-469300.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
